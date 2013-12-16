@@ -282,98 +282,98 @@
     <string name="screen_state_sync">Sync</string>
     <string name="screen_state_sync_summary">Disable sync when the screen goes off</string>
 
-    <!-- CUSTOMIZATION -->
-    <string name="no_customization_owned">No customization available</string>
-    <string name="no_customization_owned_summary">There isn\'t any customization available on your Android Tweaker 2. Visit the shop to get some!</string>
-    <string name="font_manager" translatable="false">Font manager</string>
-    <string name="font_manager_summary">Install custom fonts on your device</string>
-    <string name="backup_font">Backing up current font to allows you to restore in future</string>
-    <string name="installing_font">Installing font…</string>
-    <string name="install_font">Do you want to install</string>
-    <string name="reset_font">Set original Roboto font?</string>
+    <!-- Anpassungen -->
+    <string name="no_customization_owned">Keine Anpassungen verfügbar</string>
+    <string name="no_customization_owned_summary">Keine Anpassungen bei deinem Android Tweaker 2 verfügbar. Besuche den Shop, um welche zu kaufen!</string>
+    <string name="font_manager" translatable="false">Schrift-Manager</string>
+    <string name="font_manager_summary">Installiere andere Schriftarten auf deinem Gerät</string>
+    <string name="backup_font">Sichere deine aktuelle Schriftart, um sie später wiederherstellen zu können</string>
+    <string name="installing_font">Installiere Schriftart…</string>
+    <string name="install_font">Möchtest du die Schriftart installieren?</string>
+    <string name="reset_font">Aktiviere die originale Roboto Schriftart?</string>
 
     <!-- SHOP -->
     <string name="details">Details</string>
-    <string name="shop_no_ads">Remove ads</string>
-    <string name="no_ads_purchased">Thanks for your donation! The ads are gone now!</string>
-    <string name="shop_screen_state" translatable="false">Smart actions</string>
-    <string name="screen_state_not_purchased">You didn\'t purchase the smart actions tool</string>
-    <string name="screen_state_purchased">Smart actions has been purchased! You got a new card on the main page!</string>
-    <string name="font_manager_purchased">Font manager has been purchased! You got a new card on the customization page!</string>
-    <string name="noty_weather_purchased">Notification weather has been purchased! You got a new card on the customization page!</string>
+    <string name="shop_no_ads">Entferne Werbung</string>
+    <string name="no_ads_purchased">Danke für die Spende! Die Werbung ist nun entfernt</string>
+    <string name="shop_screen_state" translatable="false">Smart Actions</string>
+    <string name="screen_state_not_purchased">Du hast nicht das Smart Actions Tool gekauft</string>
+    <string name="screen_state_purchased">Smart Actions wurde gekauft! Du hast einen neuen Reiter auf der Startseite!</string>
+    <string name="font_manager_purchased">Schrift-Manager wurde gekauft! Du hast einen neuen Reiter auf der Anpassungsseite!</string>
+    <string name="noty_weather_purchased">Notification Wetter wurde gekauft! Du hast einen neuen Reiter auf der Anpassungsseite!</string>
 
-    <!-- WEATHER NOTY -->
-    <string name="enable_weather_noty">Notification weather</string>
-    <string name="enable_weather_noty_summary">Add weather into notification drawer</string>
-    <string name="building_weather_noty">Hold on! I\'m building your new weather notification</string>
-    <string name="weather_use_gps">Use GPS</string>
-    <string name="gps_disabled">Enable GPS</string>
-    <string name="gps_disabled_summary">Tap here to enable your GPS</string>
-    <string name="weather_prior">High priority</string>
-    <string name="weather_prior_summary">Keep weather notification on top</string>
-    <string name="setting_custom_location">Your custom location is set to:</string>
-    <string name="weather_null">Not available</string>
-    <string name="title_weather_location">Weather location</string>
-    <string name="title_weather_customization">Weather customization</string>
+    <!-- Wetterbenachrichtigungen -->
+    <string name="enable_weather_noty">Notification Wetter</string>
+    <string name="enable_weather_noty_summary">Füge Wetter zum Notification Drawer hinzu</string>
+    <string name="building_weather_noty">Bitte um Geduld! Neue Wetterbenachrichtigungen werden erstellt.</string>
+    <string name="weather_use_gps">Nutze GPS</string>
+    <string name="gps_disabled">Aktiviere GPS</string>
+    <string name="gps_disabled_summary">Drücke hier um GPS zu aktivieren</string>
+    <string name="weather_prior">Hohe Priorität</string>
+    <string name="weather_prior_summary">Behalte Wetterbenachrichtigungen im Vordergrund</string>
+    <string name="setting_custom_location">Dein gesetzter Standort ist:</string>
+    <string name="weather_null">Nicht verfügbar</string>
+    <string name="title_weather_location">Wetter Standort</string>
+    <string name="title_weather_customization">Wetteranpassung</string>
     <string name="weather_fah">Fahrenheit</string>
-    <string name="weather_fah_summary">Use fahrenheit instead of celsius</string>
-    <string-array name="weather_conditions">
-        <item>tornado</item>
-        <item>tropical storm</item>
-        <item>hurricane</item>
-        <item>severe thunderstorms</item>
-        <item>thunderstorms</item>
-        <item>mixed rain and snow</item>
-        <item>mixed rain and sleet</item>
-        <item>mixed snow and sleet</item>
-        <item>freezing drizzle</item>
-        <item>drizzle</item>
-        <item>freezing rain</item>
-        <item>showers</item>
-        <item>showers</item>
-        <item>snow flurries</item>
-        <item>light snow showers</item>
-        <item>blowing snow</item>
-        <item>snow</item>
-        <item>hail</item>
-        <item>sleet</item>
-        <item>dust</item>
-        <item>foggy</item>
-        <item>haze</item>
-        <item>smoky</item>
-        <item>blustery</item>
-        <item>windy</item>
-        <item>cold</item>
-        <item>cloudy</item>
-        <item>mostly cloudy</item>
-        <item>mostly cloudy</item>
-        <item>partly cloudy</item>
-        <item>partly cloudy</item>
-        <item>clear (night)</item>
-        <item>sunny</item>
-        <item>fair</item>
-        <item>fair</item>
-        <item>mixed rain and hail</item>
-        <item>hot</item>
-        <item>isolated thunderstorms</item>
-        <item>scattered thunderstorms</item>
-        <item>scattered thunderstorms</item>
-        <item>scattered showers</item>
-        <item>heavy snow</item>
-        <item>partly cloudy</item>
-        <item>thundershowers</item>
-        <item>snow showers</item>
-        <item>isolated thundershowers</item>
+    <string name="weather_fah_summary">Benutze Fahrenheit anstelle von Celsuis</string>
+    <string-array name="Wetterbedingungen">
+        <item>Tornado</item>
+        <item>Tropensturm</item>
+        <item>Orkan</item>
+        <item>starkes Unwetter</item>
+        <item>Gewitter</item>
+        <item>Regen & Schnee</item>
+        <item>Regen & Schneeregen</item>
+        <item>Schnee & Nieselregen</item>
+        <item>Gefrierender Nieselregen</item>
+        <item>Nieselregen</item>
+        <item>Eisregen</item>
+        <item>Schauer</item>
+        <item>Schauer</item>
+        <item>Schneestürme</item>
+        <item>Leichte Schneeschauer</item>
+        <item>Schneeverwehungen </item>
+        <item>Schnee</item>
+        <item>Hagel</item>
+        <item>Graupel</item>
+        <item>Staub</item>
+        <item>Neblig</item>
+        <item>Dunst</item>
+        <item>Dunst</item>
+        <item>Stürmisch</item>
+        <item>Windig</item>
+        <item>Kalt</item>
+        <item>Bewölkt</item>
+        <item>Meist bewölkt</item>
+        <item>Meist bewölkt</item>
+        <item>Teilweise bewölkt</item>
+        <item>Teilweise bewölkt</item>
+        <item>Klar (nachts)</item>
+        <item>Sonnig</item>
+        <item>Schönwetter</item>
+        <item>Schönwetter</item>
+        <item>Regen & Hagel</item>
+        <item>Heiß</item>
+        <item>Vereinzelte Gewitter</item>
+        <item>Vereinzelte Gewitter</item>
+        <item>Vereinzelte Gewitter</item>
+        <item>Vereinzelte Regenschauer</item>
+        <item>Starker Schnee</item>
+        <item>Teilweise bewölkt</item>
+        <item>Gewitterregen</item>
+        <item>Schneeschauer</item>
+        <item>Vereinzelte Gewitter</item>
     </string-array>
 
-    <string-array name="week_day">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+    <string-array name="Wochentag">
+        <item>Sonntag</item>
+        <item>Montag</item>
+        <item>Dienstag</item>
+        <item>Mittwoch</item>
+        <item>Donnerstag</item>
+        <item>Freitag</item>
+        <item>Samstag</item>
     </string-array>
 
 </resources>
